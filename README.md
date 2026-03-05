@@ -1,4 +1,4 @@
-# Hi there, I'm [본인 영문 이름] 👋
+# Hi there, I'm WoohyungLee. 👋
 ### 🎓 Junior Software Engineering Student @ SKKU
 
 Welcome to my GitHub! I'm a passionate developer currently in my 3rd year at **Sungkyunkwan University**, diving deep into software architecture and efficient coding.
@@ -25,16 +25,15 @@ Welcome to my GitHub! I'm a passionate developer currently in my 3rd year at **S
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인깃허브ID]&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인깃허브ID]&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spoonerton1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoonerton1&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-* **Email:** [본인 이메일 주소]
+* **Email:** a200347@gmail.com
 * **LinkedIn:** [링크드인 주소 (선택)]
-* **Blog:** [기술 블로그 주소 (선택)]
 
 ---
 *"Talk is cheap. Show me the code." - Linus Torvalds*
